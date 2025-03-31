@@ -102,4 +102,3 @@ if __name__ == "__main__":
 
 
 df = pd.read_csv('Data/Real-Data/Real_Combine.csv')
-print(df)
